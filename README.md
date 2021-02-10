@@ -34,13 +34,13 @@ The courses were divided in:
 ## Intermediate
   
 - Cornell: The Computing Technology Inside Your Smartphone - [edX](https://www.edx.org/course/computing-technology-inside-smartphone-cornellx-engri1210x-0)
-- MIT: Computation Structures - Part 1: Digital Circuits - [edX](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0)
+- MIT: Computation Structures - Part 1: Digital Circuits - [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/index.htm)
 - Stanford: Algorithms: Design and Analysis - [Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
   
 ## Advanced
   
-- MIT: Computation Structures 2: Computer Architecture - [edX](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)
-- MIT: Computation Structures 3: Computer Organization - [edX](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0)
+- MIT: Computation Structures 2: Software Construction - [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/)
+- MIT: Computer System Engineering - [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
 - Stanford: Algorithms: Design and Analysis, Part 2 - [Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
 - UC Berkeley: Operating Systems and Systems Programming - [YouTube](https://www.youtube.com/watch?v=hry_qqXLej8&list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM&index=2&t=9s)
 - Stanford: Introduction to Computer Networking - [Lagunita](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
