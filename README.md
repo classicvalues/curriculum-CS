@@ -35,15 +35,15 @@ The courses were divided in:
   
 - Cornell: The Computing Technology Inside Your Smartphone - [edX](https://www.edx.org/course/computing-technology-inside-smartphone-cornellx-engri1210x-0)
 - MIT: Computation Structures - Part 1: Digital Circuits - [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/index.htm)
-- Stanford: Algorithms: Design and Analysis - [Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
+- Stanford: Algorithms: Design and Analysis - [Lagunita](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
   
 ## Advanced
   
 - MIT: Computation Structures 2: Software Construction - [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/)
 - MIT: Computer System Engineering - [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/)
-- Stanford: Algorithms: Design and Analysis, Part 2 - [Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
+- Stanford: Algorithms: Design and Analysis, Part 2 - [Lagunita](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
 - UC Berkeley: Operating Systems and Systems Programming - [YouTube](https://www.youtube.com/watch?v=hry_qqXLej8&list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM&index=2&t=9s)
-- Stanford: Introduction to Computer Networking - [Lagunita](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+- Stanford: Introduction to Internet of Things - [Lagunita](https://online.stanford.edu/courses/xee100-introduction-internet-things)
 - UC Berkeley: Introduction to Database Systems - [Internet Archive](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
 - Stanford: Compilers - [Lagunita](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 - MIT: Distributed Systems - [YouTube](https://www.youtube.com/watch?v=hBWfjkGKRas&list=PLkcQbKbegkMqiWf7nF8apfMRL4P4sw8UL)
