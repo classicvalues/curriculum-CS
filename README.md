@@ -37,6 +37,7 @@ The courses were divided in:
 - Cornell: The Computing Technology Inside Your Smartphone - [edX](https://www.edx.org/course/computing-technology-inside-smartphone-cornellx-engri1210x-0)
 - MIT: Computation Structures - Part 1: Digital Circuits - [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/index.htm)
 - Stanford: Algorithms: Design and Analysis - [Lagunita](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
+- UC Berkeley: Operating Systems - [YouTube](https://www.youtube.com/watch?v=hry_qqXLej8&list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM)
   
 ## Advanced
   
