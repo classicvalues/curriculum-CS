@@ -30,6 +30,7 @@ The courses were divided in:
   
 - MIT: Introduction to Computer Science and Programming in Python - [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/)
 - MIT: Introduction to Computational Thinking and Data Science - [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm) | [edX](https://www.edx.org/course/introduction-to-computational-thinking-and-data-science-2)  
+- MIT: Introduction to Computational Thinking with Julia, with Applications to Modeling the COVID-19 Pandemic - [MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/)
   
 ## Intermediate
   
