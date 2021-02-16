@@ -45,6 +45,7 @@ The courses were divided in:
 - Stanford: Algorithms: Design and Analysis, Part 2 - [Lagunita](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
 - UC Berkeley: Operating Systems and Systems Programming - [YouTube](https://www.youtube.com/watch?v=hry_qqXLej8&list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM&index=2&t=9s)
 - Stanford: Introduction to Internet of Things - [Lagunita](https://online.stanford.edu/courses/xee100-introduction-internet-things)
+- University System of Georgia: Cybersecurity and the Internet of Things - [Coursera](https://www.coursera.org/learn/iot-cyber-security)
 - UC Berkeley: Introduction to Database Systems - [Internet Archive](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
 - Stanford: Compilers - [Lagunita](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 - MIT: Distributed Systems - [YouTube](https://www.youtube.com/watch?v=hBWfjkGKRas&list=PLkcQbKbegkMqiWf7nF8apfMRL4P4sw8UL)
